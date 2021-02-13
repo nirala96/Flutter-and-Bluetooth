@@ -13,8 +13,8 @@
 
 
 ## Working 
+<img src="screenrecord.gif" width="250" />
 
-![](screenrecord.gif)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
